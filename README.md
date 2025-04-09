@@ -4,8 +4,8 @@ Este repositorio contiene un ejemplo práctico de cómo implementar una comunica
 
 ## Estructura del proyecto
 
-- `server.py`: Servidor que utiliza un certificado SSL para cifrar la conexión.
-- `client.py`: Cliente que se conecta al servidor usando SSL.
+- `SocketSSL.py`: Servidor que utiliza un certificado SSL para cifrar la conexión.
+- `ClientSocketSSL.py`: Cliente que se conecta al servidor usando SSL.
 - `cert/`: Contiene el certificado (`cert.pem`) y la clave privada (`key.pem`) auto-firmados.
 
 ## Requisitos

@@ -1,0 +1,2 @@
+Agregar aquí sus certificados SSL/TLS
+Agregar ruta de los certificados en el archivo SocketSSL.py
