@@ -26,3 +26,5 @@ Guarda key.pem y cert.pem en la carpeta cert/.
 - Primero inicia el servidor: python3 SocketSSL.py
 - En otra terminal, inicia el cliente: python3 ClienteSocketSSL.py
 
+Artículo completo en LinkedIn.  
+[Cómo crear un socket seguro (SSL/TLS) en Python](https://www.linkedin.com/pulse/c%C3%B3mo-crear-un-socket-seguro-ssltls-en-python-meneses-castillo-buwue)
